@@ -13,7 +13,7 @@ function Contact() {
             <div className="d-flex justify-content-center">
                 <div className="map-container w-100">
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115840.56992344346!2d66.9919965556516!3d24.863241295534547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33ea3db108f41%3A0x42acc4507358b160!2sAptech%20Learning%2C%20Shahrah%20e%20Faisal%20Center!5e0!3m2!1sen!2s!4v1722942458099!5m2!1sen!2s"
+                    src="https://www.google.com/maps/vt/data=vRGoC8Sb58-A2OpJWhidDyCD_S-UDwFCf_xFeCGnqO7P9e7IXlcOJrltoVjI1ikwOhTIw_3jVopBNz6t0-bLLQzQhY1mzEIxmfdYbdaQdUkmOJQ_45olZ4MgNYoFXrj0bYvgxy08NegQTVCUmWPVWJfsL44-gm8rylG1Fj95YMq6FRdg3XxJbpu7r6WFJXbe9HQLTMnh6DxycnuNAvs3seU3-_SRgaQLwgR2mQlOUo28FkLqWuzjib1lDT99QhITUBRp3z9vrS5LLYrWf8ar0ejG6UMqnTCmBBjwjxPSCH0"
                     width="100%"
                     height="300"
                     style={{ border: 0 }}
