@@ -15,6 +15,7 @@
     "@hookform/resolvers": "^3.9.0",
     "axios": "^1.7.3",
     "bootstrap": "^5.3.3",
+    "d3": "^7.9.0",
     "devextreme": "^24.1.4",
     "devextreme-react": "^24.1.4",
     "formik": "^2.4.6",
